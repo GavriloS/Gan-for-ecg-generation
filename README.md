@@ -40,3 +40,7 @@ I implemented a CNN to measure the difference between an unbalanced dataset (wit
 ![](https://github.com/GavriloS/Gan-for-ecg-generation/blob/main/images/generate_images/Class_F.jpg)
 
 ## CNN Results 
+### Unbalanced
+![](https://github.com/GavriloS/Gan-for-ecg-generation/blob/main/images/results/unbalanced.PNG)
+### Balanced
+![](https://github.com/GavriloS/Gan-for-ecg-generation/blob/main/images/results/balanced.PNG)
